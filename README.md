@@ -74,5 +74,5 @@ A collection of Itanium Processor Abstraction Layers (PALs).
 ## Tukwila
 | File | Type | Version | Date | Signature |
 |---|---|---|---|---|
-| [`PAL_A_0439.bin`](./tukwila/PAL_A_0439.bin) | PAL_A | 4.39 | 2012-08-21 | RSA-SHA1 |
-| [`PAL_B_0439.bin`](./tukwila/PAL_B_0439.bin) | PAL_B | 4.39 | 2012-08-21 | RSA-SHA1 |
+| [`PAL_A_0439.bin`](./tukwila/PAL_A_0439.bin) | PAL_A | 4.39 | 2012-08-21 | RSA-SHA256 |
+| [`PAL_B_0439.bin`](./tukwila/PAL_B_0439.bin) | PAL_B | 4.39 | 2012-08-21 | RSA-SHA256 |
