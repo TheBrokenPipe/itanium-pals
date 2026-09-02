@@ -69,3 +69,4 @@ A collection of Itanium Processor Abstraction Layers (PALs).
 | [`PAL_AS_0108.bin`](./montvale/PAL_AS_0108.bin) | PAL_A (Specific) | 1.08 | 2007-05-25 | RSA-SHA1 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [`PAL_B_0108.bin`](./montvale/PAL_B_0108.bin) | PAL_B | 1.08 | 2007-05-25 | RSA-SHA1 |
+| [`PAL_B_0114.bin`](./montvale/PAL_B_0114.bin) | PAL_B | 1.14 | N/A | RSA-SHA1 |
