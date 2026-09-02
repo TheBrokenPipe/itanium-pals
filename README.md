@@ -69,10 +69,10 @@ A collection of Itanium Processor Abstraction Layers (PALs).
 | [`PAL_AS_0108.bin`](./montvale/PAL_AS_0108.bin) | PAL_A (Specific) | 1.08 | 2007-05-25 | RSA-SHA1 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [`PAL_B_0108.bin`](./montvale/PAL_B_0108.bin) | PAL_B | 1.08 | 2007-05-25 | RSA-SHA1 |
-| [`PAL_B_0114.bin`](./montvale/PAL_B_0114.bin) | PAL_B | 1.14 | N/A | RSA-SHA1 |
+| [`PAL_B_0114.bin`](./montvale/PAL_B_0114.bin) | PAL_B | 1.14 | 2008-02-04 | RSA-SHA1 |
 
 ## Tukwila
 | File | Type | Version | Date | Signature |
 |---|---|---|---|---|
-| [`PAL_A_0439.bin`](./tukwila/PAL_A_0439.bin) | PAL_A | 4.39 | N/A? | RSA-SHA1 |
-| [`PAL_B_0439.bin`](./tukwila/PAL_B_0439.bin) | PAL_B | 4.39 | N/A? | RSA-SHA1 |
+| [`PAL_A_0439.bin`](./tukwila/PAL_A_0439.bin) | PAL_A | 4.39 | 2012-08-21 | RSA-SHA1 |
+| [`PAL_B_0439.bin`](./tukwila/PAL_B_0439.bin) | PAL_B | 4.39 | 2012-08-21 | RSA-SHA1 |
