@@ -21,8 +21,10 @@ A collection of Itanium Processor Abstraction Layers (PALs).
 | [`PAL_AG_0127.bin`](./generic/PAL_AG_0127.bin) | PAL_A (Generic) | 1.27 | 2004-06-02 | RSA-SHA1 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [`PAL_AS_0731.bin`](./mckinley/PAL_AS_0731.bin) | PAL_A (Specific) | 7.31 | 2002-08-05 | DSA-SHA1 |
+| [`PAL_AS_0777.bin`](./mckinley/PAL_AS_0777.bin) | PAL_A (Specific) | 7.77 | 2004-05-07 | DSA-SHA1 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [`PAL_B_0759.bin`](./mckinley/PAL_B_0759.bin) | PAL_B | 7.59 | 2003-05-14 | DSA-SHA1 |
+| [`PAL_B_0779.bin`](./mckinley/PAL_B_0779.bin) | PAL_B | 7.79 | 2005-07-11 | DSA-SHA1 |
 
 ## Madison
 | File | Type | Version | Date | Signature |
@@ -32,9 +34,11 @@ A collection of Itanium Processor Abstraction Layers (PALs).
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [`PAL_AS_0537.bin`](./madison/PAL_AS_0537.bin) | PAL_A (Specific) | 5.37 | 2003-05-14 | DSA-SHA1 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [`PAL_B_0537.bin`](./madison/PAL_B_0537.bin) | PAL_B | 5.37 | 2003-05-14 | DSA-SHA1 |
 | [`PAL_B_0565.bin`](./madison/PAL_B_0565.bin) | PAL_B | 5.65 | 2003-12-10 | DSA-SHA1 |
 | [`PAL_B_0569.bin`](./madison/PAL_B_0569.bin) | PAL_B | 5.69 | 2004-04-29 | DSA-SHA1 |
 | [`PAL_B_0572.bin`](./madison/PAL_B_0572.bin) | PAL_B | 5.72 | 2005-03-09 | DSA-SHA1 |
+| [`PAL_B_0573.bin`](./madison/PAL_B_0573.bin) | PAL_B | 5.73 | 2005-07-11 | DSA-SHA1 |
 
 ## Madison 9M
 | File | Type | Version | Date | Signature |
@@ -46,7 +50,11 @@ A collection of Itanium Processor Abstraction Layers (PALs).
 | [`PAL_AS_0127.bin`](./madison-9m/PAL_AS_0127.bin) | PAL_A (Specific) | 1.27 | 2004-06-02 | DSA-SHA1 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [`PAL_B_0126.bin`](./madison-9m/PAL_B_0126.bin) | PAL_B | 1.26 | 2004-04-29 | DSA-SHA1 |
+| [`PAL_B_0127.bin`](./madison-9m/PAL_B_0127.bin) | PAL_B | 1.27 | 2004-06-02 | DSA-SHA1 |
+| [`PAL_B_0210.bin`](./madison-9m/PAL_B_0210.bin) | PAL_B | 2.10 | 2005-02-10 | DSA-SHA1 |
 | [`PAL_B_0214.bin`](./madison-9m/PAL_B_0214.bin) | PAL_B | 2.14 | 2005-06-02 | DSA-SHA1 |
+| [`PAL_B_0215.bin`](./madison-9m/PAL_B_0215.bin) | PAL_B | 2.15 | 2005-06-29 | DSA-SHA1 |
+| [`PAL_B_0220.bin`](./madison-9m/PAL_B_0220.bin) | PAL_B | 2.20 | 2006-05-03 | DSA-SHA1 |
 | [`PAL_B_0225.bin`](./madison-9m/PAL_B_0225.bin) | PAL_B | 2.25 | 2007-03-14 | DSA-SHA1 |
 
 ## Montecito
